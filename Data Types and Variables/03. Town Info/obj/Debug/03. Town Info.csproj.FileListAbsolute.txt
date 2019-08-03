@@ -1,0 +1,6 @@
+C:\Users\Hrisi\source\repos\Data Types and Variables\03. Town Info\bin\Debug\_03.Town_Info.exe.config
+C:\Users\Hrisi\source\repos\Data Types and Variables\03. Town Info\bin\Debug\_03.Town_Info.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\03. Town Info\bin\Debug\_03.Town_Info.pdb
+C:\Users\Hrisi\source\repos\Data Types and Variables\03. Town Info\obj\Debug\03. Town Info.csproj.CoreCompileInputs.cache
+C:\Users\Hrisi\source\repos\Data Types and Variables\03. Town Info\obj\Debug\_03.Town_Info.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\03. Town Info\obj\Debug\_03.Town_Info.pdb

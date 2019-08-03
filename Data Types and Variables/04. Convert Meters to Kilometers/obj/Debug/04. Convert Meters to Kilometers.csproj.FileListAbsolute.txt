@@ -1,0 +1,6 @@
+C:\Users\Hrisi\source\repos\Data Types and Variables\04. Convert Meters to Kilometers\bin\Debug\_04.Convert_Meters_to_Kilometers.exe.config
+C:\Users\Hrisi\source\repos\Data Types and Variables\04. Convert Meters to Kilometers\bin\Debug\_04.Convert_Meters_to_Kilometers.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\04. Convert Meters to Kilometers\bin\Debug\_04.Convert_Meters_to_Kilometers.pdb
+C:\Users\Hrisi\source\repos\Data Types and Variables\04. Convert Meters to Kilometers\obj\Debug\04. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\Hrisi\source\repos\Data Types and Variables\04. Convert Meters to Kilometers\obj\Debug\_04.Convert_Meters_to_Kilometers.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\04. Convert Meters to Kilometers\obj\Debug\_04.Convert_Meters_to_Kilometers.pdb

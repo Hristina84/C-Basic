@@ -1,0 +1,7 @@
+C:\Users\Hrisi\source\repos\Data Types and Variables\08. Snowballs\bin\Debug\_08.Snowballs.exe.config
+C:\Users\Hrisi\source\repos\Data Types and Variables\08. Snowballs\bin\Debug\_08.Snowballs.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\08. Snowballs\bin\Debug\_08.Snowballs.pdb
+C:\Users\Hrisi\source\repos\Data Types and Variables\08. Snowballs\obj\Debug\08. Snowballs.csprojAssemblyReference.cache
+C:\Users\Hrisi\source\repos\Data Types and Variables\08. Snowballs\obj\Debug\08. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Hrisi\source\repos\Data Types and Variables\08. Snowballs\obj\Debug\_08.Snowballs.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\08. Snowballs\obj\Debug\_08.Snowballs.pdb

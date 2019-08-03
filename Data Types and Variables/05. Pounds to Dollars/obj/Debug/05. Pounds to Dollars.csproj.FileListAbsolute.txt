@@ -1,0 +1,6 @@
+C:\Users\Hrisi\source\repos\Data Types and Variables\05. Pounds to Dollars\bin\Debug\_05.Pounds_to_Dollars.exe.config
+C:\Users\Hrisi\source\repos\Data Types and Variables\05. Pounds to Dollars\bin\Debug\_05.Pounds_to_Dollars.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\05. Pounds to Dollars\bin\Debug\_05.Pounds_to_Dollars.pdb
+C:\Users\Hrisi\source\repos\Data Types and Variables\05. Pounds to Dollars\obj\Debug\05. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\Hrisi\source\repos\Data Types and Variables\05. Pounds to Dollars\obj\Debug\_05.Pounds_to_Dollars.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\05. Pounds to Dollars\obj\Debug\_05.Pounds_to_Dollars.pdb

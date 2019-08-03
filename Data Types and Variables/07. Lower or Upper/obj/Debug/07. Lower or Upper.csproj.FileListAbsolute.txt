@@ -1,0 +1,6 @@
+C:\Users\Hrisi\source\repos\Data Types and Variables\07. Lower or Upper\bin\Debug\_07.Lower_or_Upper.exe.config
+C:\Users\Hrisi\source\repos\Data Types and Variables\07. Lower or Upper\bin\Debug\_07.Lower_or_Upper.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\07. Lower or Upper\bin\Debug\_07.Lower_or_Upper.pdb
+C:\Users\Hrisi\source\repos\Data Types and Variables\07. Lower or Upper\obj\Debug\07. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Hrisi\source\repos\Data Types and Variables\07. Lower or Upper\obj\Debug\_07.Lower_or_Upper.exe
+C:\Users\Hrisi\source\repos\Data Types and Variables\07. Lower or Upper\obj\Debug\_07.Lower_or_Upper.pdb
